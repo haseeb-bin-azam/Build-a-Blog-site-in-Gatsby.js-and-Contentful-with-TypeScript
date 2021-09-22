@@ -1,0 +1,11 @@
+.header h1 {
+    background-color: rgb(36, 88, 231);
+    margin: 0;
+    padding: 20px;
+    color: whitesmoke;
+    padding-left: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
